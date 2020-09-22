@@ -34,6 +34,7 @@ body {
     overflow-x: hidden;
     position: relative;
     color: #fff;
+    font-weight: 300;
 }
 
 .comtainer {
@@ -53,7 +54,7 @@ body {
 }
 
 .title {
-
+  
 }
 
 .scroll__btn {
